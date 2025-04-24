@@ -65,8 +65,8 @@ BACKEND_API_URL=http://localhost:3000/api
 - [Python](https://www.python.org/downloads/) 3.8+
 - [Docker](https://www.docker.com/) 20.10+
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
-- NVIDIA Drivers 515+ (para correr Riva localmente)
-- Firebase configurado (usa tu propia cuenta para desarrollo)
+- NVIDIA Drivers 515+ (para correr Riva)
+- Firebase configurado 
 
 Instalar Expo CLI si no lo tienes:
 
