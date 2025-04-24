@@ -1,5 +1,3 @@
-# CoppelConecta
-Transformamos a los cobradores de Coppel en embajadores estratégicos con una app móvil híbrida (iOS/Android) que combina IA predictiva, funcionalidad offline y gamificación para maximizar el impacto social y financiero en microempresarios.
 # Coppel Conecta – App de Referencias de Negocios
 
 **Coppel Conecta** es una aplicación móvil desarrollada con **React Native + Expo** como parte de un proyecto modular. Permite a los **cobradores de Coppel** referir negocios, registrar emprendedores, darles seguimiento, y asistirlos con un chatbot inteligente. Esta app busca empoderar a personas emprendedoras para que impulsen sus negocios.
