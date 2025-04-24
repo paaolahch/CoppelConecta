@@ -28,6 +28,13 @@
 - **FAISS + FastAPI** en backend (no incluido en este repo)
 
 ---
+## Variables de entorno
+Crea un archivo .env con tus claves:
+
+FIREBASE_API_KEY=tu_clave
+FIREBASE_AUTH_DOMAIN=...
+GOOGLE_PLACES_API_KEY=...
+CHATBOT_API_URL=https://tu-api-fastapi.com/query
 
 ## Requisitos Previos
 
@@ -40,13 +47,4 @@ Instalar Expo CLI si no lo tienes:
 ```bash
 npm install -g expo-cli
 
-## Variables de entorno
-Crea un archivo .env con tus claves:
 
-env
-Copiar
-Editar
-FIREBASE_API_KEY=tu_clave
-FIREBASE_AUTH_DOMAIN=...
-GOOGLE_PLACES_API_KEY=...
-CHATBOT_API_URL=https://tu-api-fastapi.com/query
